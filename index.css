@@ -1,0 +1,15 @@
+header {
+    background: #ffffff;
+}
+
+li {
+    display: inline;
+    margin: 0 0 0 30px;
+}
+
+li {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration-style: none;
+}
